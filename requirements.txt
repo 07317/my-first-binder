@@ -1,5 +1,1 @@
 pandas
-csv
-openpyxl
-matplotlib.pyplot
-tensorflow
