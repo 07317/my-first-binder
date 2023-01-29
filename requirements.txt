@@ -1,2 +1,6 @@
 numpy==1.14.5
 pandas
+csv
+openpyxl
+matplotlib.pyplot
+tensorflow
